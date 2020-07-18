@@ -1,0 +1,19 @@
+.quadradinho {
+    width: 8px;
+    height: 3px;
+    border: groove 1px rgba(128,128,128, .3);
+    padding: 4px;
+}
+
+/*.quadradinho:hover {
+    background-color: black;
+}*/
+
+#container {
+    width: 580px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 45px;
+}
